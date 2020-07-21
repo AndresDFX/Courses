@@ -5,20 +5,20 @@
 ![JS](./js.gif)
 
 ---
-<h1><u> Contenido</u></h1>
+<h1><u> Content</u></h1>
 
 Description here
 
 ---
-<h2><u> Basico</u></h2>
+<h2><u> Basic</u></h2>
 
 
 
-* **Clase #1**: JavaScript Fundamentals.docx
-* **Clase #2**:
-* **Clase #3**:
+* **Clase #1**: JavaScript Fundamentals
+* **Clase #2**: Advanced JavaScript
+* **Clase #3**: Multimedia Interactive Web Applicationgit
 * **Clase #4**:
-* **Clase #5**: Web Server con NodeJS.docx
-* **Clase #6**: REST Server NodeJS.docx
+* **Clase #5**: Web Server con NodeJS
+* **Clase #6**: REST Server NodeJS & SQL
 ---
 </div>
