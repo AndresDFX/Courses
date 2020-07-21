@@ -43,8 +43,8 @@ identifiers y estos siguen las siguientes normas:
 
 -   Los nombres responden a case sensitive.
 
--   Los nombres no pueden ser una [[palabra reservada de
-    ]{.ul}**[JS]{.ul}**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#Reserved_keywords_as_of_ECMAScript_2015).
+-   Los nombres no pueden ser una [**palabra
+    reservada.**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#Reserved_keywords_as_of_ECMAScript_2015)
 
 ### 1.2 Las tres maneras de declarar variables desde ES6
 
