@@ -11,8 +11,7 @@ como instrumento de la misma. La guía contará con código base, el
 desarrollo conceptual de los temas y enlaces externos para el estudio
 independiente.
 
-1. Declaración de variables
----------------------------
+### 1. Declaración de variables
 
 Ya conocemos las variables, esos contenedores de valores que usamos todo
 el tiempo al programar. En **JavaScript** dichos contenedores pueden
@@ -43,8 +42,8 @@ identifiers y estos siguen las siguientes normas:
 
 -   Los nombres responden a case sensitive.
 
--   Los nombres no pueden ser una [**palabra
-    reservada.**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#Reserved_keywords_as_of_ECMAScript_2015)
+-   Los nombres no pueden ser una
+    [ palabra reservada](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#Reserved_keywords_as_of_ECMAScript_2015 "Link")
 
 ### 1.2 Las tres maneras de declarar variables desde ES6
 
@@ -324,8 +323,7 @@ Que implicitamente sería:
 > console.log(\`\${x} \${y}\`); // \'1 undefined\'\
 > y = 2; // Inicializa y
 
-2. Tipos
---------
+### 2. Tipos
 
 Javascript tiene seis tipos primitivos: Sin definir (undefined), Nulo
 (null), Lógicos (boolean), Numérico (number), Cadena (string), Símbolo
@@ -521,11 +519,10 @@ primitivos convierte estos en objetos (aparecen con la primera letra en
 mayúscula) y por lo tanto nos pueden confundir. En general los tipos de
 datos primitivos funcionan bien con typeof.
 
-3. Tiempo de repasar codeando
------------------------------
+### 3. Tiempo de repasar codeando
 
-En este [[link]{.ul}](Entrenamiento%20en%20codewars.docx) pueden acceder
-a la serie de JavaScript Basic:
+En este [ link](Entrenamiento%20en%20codewars.docx "Link") pueden
+acceder a la serie de JavaScript Basic:
 
 -   Templates literales
 
