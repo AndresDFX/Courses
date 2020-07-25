@@ -7,7 +7,8 @@ const port = 8888;
 //Definicion de rutas y engine
 app.use(express.static(`${__dirname}/views`));
 app.use(express.static(`${__dirname}/public`));
-hbs.registerPartials(__dirname + '/views/fragments');
+hbs.registerPartials(__dirname + '/views/partials');
+
 app.set('view engine', 'hbs');
 
 //Metodo GET de Index
@@ -22,11 +23,10 @@ app.get('/user', function (req, res) {
 
 //Desarrollo de Ejercicio
 app.get('/user/:user', function (req, res) {
-    app.set('view engine', 'hbs');
-    let username = req.params.user; 
-
-    res.render('user/index', { title: "User Controller", username });
+    let username = req.params.user;
+    res.render('user/detail', { title: "User Detail", username });
 });
+
 
 //Inicio del servidor
 app.listen(port, function () {
