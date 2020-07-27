@@ -37,7 +37,6 @@ app.post('/user', (req, res) => {
     }
 });
 
-
 //Actualizar el usuario :id
 app.put('/user/:id', (req, res) => {
     res.json('put Usuario')
@@ -49,3 +48,4 @@ app.delete('/user/:id', (req, res) => {
 });
 
 module.exports = app;
+
