@@ -1,8 +1,6 @@
-< align="justify">
+<div align="justify">
 
-
-
-![JS](./js.gif)
+<img src="js.gif" alt="drawing"/>
 
 ---
 <h1><u> Content</u></h1>
@@ -21,4 +19,4 @@ Description here
 * **Clase #5**: Web Server con NodeJS
 * **Clase #6**: REST Server NodeJS & SQL
 ---
-</
+</div>
