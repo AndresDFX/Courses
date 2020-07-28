@@ -1,6 +1,6 @@
 <div align="justify">
 
-<img src="mysql.gif" alt="drawing"/>
+<img src="mysql.gif" alt="drawing" width="980"/>
 
 ---
 <h1><u> Content</u></h1>
