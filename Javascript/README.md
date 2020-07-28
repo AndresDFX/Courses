@@ -1,6 +1,6 @@
 <div align="justify">
 
-<img src="js.gif" alt="drawing" width="980"/>
+<img src="js.gif" alt="drawing" width="1000"/>
 
 ---
 <h1><u> Content</u></h1>

@@ -1,6 +1,5 @@
 <div align="justify">
 
----
 <h1><u> Descripcion</u></h1>
 Scripts necesarios para la conversion de archivos utilizando pandoc y LUA.
 
